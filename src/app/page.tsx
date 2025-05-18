@@ -24,7 +24,7 @@ export default function Home() {
         <section className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">About Me</h2>
           <p className="leading-relaxed text-lg">
-            Certified multilingual data analyst with formal training in machine learning, SQL, and business analytics. I transform data into actionable insights and compelling stories that support evidence-based decision-making.
+            Certified multilingual data analyst with formal training in machine learning, SQL, and business analytics. I transform data into actionable insights and compelling stories that support evidence&#8209;based decision&#8209;making.
           </p>
         </section>
 
